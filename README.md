@@ -1,1 +1,1 @@
-<h1 style="text-align: center;"> WebApp — DataBase </h1>
+<h1> WebApp — DataBase </h1>
