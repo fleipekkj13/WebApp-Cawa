@@ -1,0 +1,51 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "DataBase";
+}
+
+<section class="banner-init">
+
+    <div class="text-center">
+        <h1 class="display-4">Bem Vindo!</h1>
+        <p>Banco De Dados</p>
+    </div>
+    <div class="text-center">
+        <form class="send-file-form" method="post" asp-action="OnPost" enctype="multipart/form-data">
+            <label for="upload" class="label">
+                <p>Selecione um Arquivo.</p>
+                <input id="upload" type="file" name="file" />
+            </label>
+            <button type="submit">Salvar!</button>
+        </form>
+    </div>
+
+</section>
+<section class="how-to-use">
+    <div class="hwt-container">
+        <h1 style="font-weight:bolder;">Aprenda a utilizar o App!</h1>
+        <p>Este aplicativo tem o intuito de atualizar dados no Banco de Dados SQL, através de arquivos Excel.</p>
+    
+        <hr />
+
+        <ul class="ul-list-hwt" style="text-align:left;list-style:none;">
+            <li>
+                <h2>Tipos De Arquivos</h2>
+                <p>É necessário que você envie apenas arquivos ".xlsx", caso contrário o programa não irá compilar o seu pedido.</p>
+            </li>
+            <li>
+                <h2>Banco De Dados</h2>
+                <p>O Banco de dados será atualizado AUTOMATICAMENTE após o usúario clicar no botão: "Salvar!" <br />Não será necessario nenhuma outra alteração ou propriedade.</p>
+            </li>
+    
+        </ul>
+
+    
+    </div>
+</section>
+<section class="footer-sec">
+    <h1 style="font-weight:500; font-family:'Segoe UI',sans-serif;">WebApp — Cawa</h1>
+    <p>Criado e Desenvolvido por: Felipe Liandro | Com Auxílio de: Cawã Henrique</p>
+</section>
+
+
