@@ -4,13 +4,17 @@ using System.Security.Cryptography;
 using System.Text;
 using System.Threading.Tasks;
 using System.Data.OleDb;
+
+/*
+ * Esse arquivo é responsável por pegar o arquivo .xls e transferir todo o conteúdo deste arquivo.
+ * */
+
 namespace WebAppCawa.Pages {
     public class Excel {
 
         public Excel() {
 
         }
-
         public static string fileName;
 
         public static DataTable GetChamados() {

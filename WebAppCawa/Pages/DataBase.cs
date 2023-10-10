@@ -4,6 +4,10 @@ using static Microsoft.EntityFrameworkCore.DbLoggerCategory.Database;
 namespace WebAppCawa.Pages {
     public class DataBase {
 
+
+        /* Dentro deste arquivo é tratado toda a parte do SQL, deste a conexão até os comandos como pode ser ver na variavel: "var sql".
+         */
+
         public static bool AdicionarChamado(Chamados chamados) {
             try {
                 using (SqlConnection cn = new SqlConnection(Data.ApplicationDbContext.StrCon)) {

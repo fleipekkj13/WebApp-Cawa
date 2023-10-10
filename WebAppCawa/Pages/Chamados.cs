@@ -3,6 +3,8 @@
 namespace WebAppCawa.Pages {
     public class Chamados {
 
+        /* Utilizamos este arquivo para conseguir passar os dados do arquivo inserido para o sql. Criamos primeiros as variaveis de cada item do arquivo excel e logo após isso criamos um construtor salvando os dados do arquivo para serem passados no SQL. Então logo após essa função "chamados" ser passada, o arquivo DataBase, ja salva os dados coletados. */
+
         public string Numero { get; set; }
         public string Criado_Em { get; set; }
         public string Tipo_tarefa { get; set; }
