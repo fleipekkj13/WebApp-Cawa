@@ -12,7 +12,7 @@
 
 <h2>Aprenda a utilizar o App: </h2>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/18G3Pxokk8M?si=DBjiy4vQzF9EpMHP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[![Assista ao vídeo: ]](https://www.youtube.com/embed/18G3Pxokk8M?si=DBjiy4vQzF9EpMHP)
 
 
 <p>Boa utilização a todos!</p>
