@@ -6,7 +6,7 @@
 <p>Para utilizar o aplicativo, é necessario que você tenha um arquivo Excel específico e por isso este projeto é apenas para agregar ao portfólio. Não irei divulgar os arquvios originais por conta de privacidade e ética. Mas dentro da pasta <a style="font-weight:bolder;" href="https://github.com/fleipekkj13/WebApp-Database/tree/master/Arquivo%20Excel">Arquivos Excel</a> você pode utilizar aquele arquivo como teste.</p>
 
 <h2>Estou com problemas</h2>
-<p>Caso tenha alguma dificuldade para ter resultados no App, pode ser por conta do banco de dados. Lembre se de criar um banco de dados dentro do Visual Studio, ou SQL, exatamente com as configurações que estão no arquivo: <a href="https://github.com/fleipekkj13/WebApp-Database/blob/master/WebAppCawa/Data/ApplicationDbContext.cs">ApplicationDbContext.cs</a><br><br>Caso o banco de dados ja tenha sido configurado recomendo entrar em contato comigo através do <a href="https://www.instagram.com/fleipefdskkj/">Instagram.</a></p>
+<p>Caso tenha alguma dificuldade para ter resultados no App, pode ser por conta do banco de dados. Lembre se de criar um banco de dados dentro do Visual Studio, ou SQL, exatamente com as configurações que estão no arquivo: <a href="https://github.com/fleipekkj13/WebApp-Database/blob/master/WebAppCawa/Data/ApplicationDbContext.cs">ApplicationDbContext.cs</a><br><br>Caso o banco de dados ja tenha sido configurado e ainda esteja retornando erros, recomendo entrar em contato comigo através do <a href="https://www.instagram.com/fleipefdskkj/">Instagram.</a></p>
 
 <br><br>
 
