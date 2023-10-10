@@ -12,7 +12,7 @@
 
 <h2>Aprenda a utilizar o App: </h2>
 
-[Clique neste Link]](https://www.youtube.com/embed/18G3Pxokk8M?si=DBjiy4vQzF9EpMHP)
+[Clique neste Link](https://www.youtube.com/embed/18G3Pxokk8M?si=DBjiy4vQzF9EpMHP)
 
 
 <p>Boa utilização a todos!</p>
